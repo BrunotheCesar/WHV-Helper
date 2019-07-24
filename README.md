@@ -4,6 +4,7 @@ The script is written in Python to help Working Holiday Visa holders looking for
 
 # How to Use
 
-Simply run WHV-Helper in your terminal
+Simply run WHV-Helper in your terminal.
+
 It will search for receptionist jobs by default and will yield 30 results. These are easily edited parameters that you can adjust in seconds.
 You can also choose which region you're looking for jobs in.
